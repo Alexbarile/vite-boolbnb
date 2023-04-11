@@ -82,7 +82,6 @@ export default{
             overflow: hidden;
         }
     }
-
     .cards:hover .title{
             color: rgb(255, 56, 92);
     }
